@@ -23,11 +23,11 @@ Intelligent Job Information Extraction: Leverages the Google Gemini API to extra
 
 
 * Job Title, Company, Location
-* 
+  
 * Required and Preferred Skills
-* 
+  
 * Experience Level
-* 
+  
 * Key Responsibilities and Qualifications
 
 
